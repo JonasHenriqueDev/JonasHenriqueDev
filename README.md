@@ -85,7 +85,9 @@ Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação
 
 **Stack**: `Flutter` • `Spring` • `MySQL` • `Mobile` • `API REST` • `Microserviços`
 
+(Frontend - Mobile)
 [![Ver Repositório (Frontend - Mobile)](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/techcycle)
+(Backend - API Microsserviços)
 [![Ver Repositório (Backend - API Microsserviços)](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/techcycle-integracao-sistemas-api)
 </div>
 
