@@ -83,10 +83,10 @@ Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação
 - 🔄 **Gestão de coletas** e agendamentos
 - 🏆 **Ranking de usuários** mais engajados
 
-**Stack**: `Laravel` • `React` • `MySQL` • `Bootstrap` • `API REST`
+**Stack**: `Flutter` • `Spring` • `MySQL` • `Mobile` • `API REST` • `Microserviços`
 
-[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/techcycle)
-
+[![Ver Repositório (Frontend - Mobile)](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/techcycle)
+[![Ver Repositório (Backend - API Microsserviços)](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/techcycle-integracao-sistemas-api)
 </div>
 
 ---
