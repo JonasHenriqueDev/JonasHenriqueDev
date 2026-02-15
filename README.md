@@ -95,13 +95,12 @@ Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação
 
 <div align="left">
 
-API REST robusta para aplicação de jogos e entretenimento:
+API REST desenvolvida em Laravel para plataforma de ensino e gestão de conteúdo educacional:
 
 - 🔐 **Autenticação JWT** e controle de acesso
-- 📊 **Sistema de ranking** e pontuações
+- 🎥 **Sistema de vídeo-aulas**
 - 🎮 **Gestão de usuários** e perfis
 - 🚀 **API escalável** e bem documentada
-- 🧪 **Testes automatizados** com PHPUnit
 
 **Stack**: `Laravel` • `MySQL` • `JWT` • `Swagger` • `PHPUnit`
 
