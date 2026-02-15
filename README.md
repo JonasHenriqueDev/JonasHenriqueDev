@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-henrique-da-silva-santos-b88321160/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonashssantos@gmail.com)
-[![Location](https://img.shields.io/badge/Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Jupi-PE-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
@@ -15,10 +15,9 @@
 Desenvolvedor Web Full Stack com **3 anos de experiência**, especializado em **PHP/Laravel** no backend e **React.js** no frontend. Estudante de Engenharia de Software na UPE (conclusão em 2026) e apaixonado por criar soluções eficientes e escaláveis.
 
 - 🔭 Atualmente trabalhando com **Laravel**, **NestJS**, **React** e **arquiteturas modernas**
-- 🏢 Experiência em ERPs para construç��o civil e gestão acadêmica
+- 🏢 Experiência em ERPs para construção civil e gestão acadêmica
 - 🌱 Focado em **Clean Architecture**, **SOLID**, **Microsserviços** e **APIs REST**
 - 💡 Interessado em boas práticas de desenvolvimento e arquitetura de software
-- 📍 Localizado em Jupi - PE, Brasil
 - 🎓 Formação em Engenharia de Software - UPE (2026)
 
 ## 🛠️ Stack Tecnológica
@@ -52,40 +51,67 @@ Desenvolvedor Web Full Stack com **3 anos de experiência**, especializado em **
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
+### 📦 [Sistema de Gestão de Pedidos e Estoque](https://github.com/JonasHenriqueDev/order-mananger-crud)
 
-[![Order Manager](https://github-readme-stats.vercel.app/api/pin/?username=JonasHenriqueDev&repo=order-mananger-crud&theme=tokyonight&hide_border=true)](https://github.com/JonasHenriqueDev/order-mananger-crud)
+<div align="left">
 
-</div>
-
-### 📦 Sistema de Gestão de Pedidos e Estoque
 Sistema fullstack para gerenciamento completo de pedidos, produtos e usuários, com:
-- ⚡ Processamento assíncrono via Laravel Horizon
-- 🔐 Autenticação baseada em tokens
-- 🎨 Interface moderna com React + Tailwind CSS
-- 🗄️ PostgreSQL + Redis para performance
 
-**Stack**: Laravel • React • Vite • PostgreSQL • Redis • Tailwind CSS
+- ⚡ **Processamento assíncrono** via Laravel Horizon
+- 🔐 **Autenticação segura** baseada em tokens
+- 🎨 **Interface moderna** com React + Tailwind CSS
+- 🗄️ **Alta performance** com PostgreSQL + Redis
+- 📊 **Dashboard** de gestão completo
 
-## 📊 GitHub Stats
+**Stack**: `Laravel` • `React` • `Vite` • `PostgreSQL` • `Redis` • `Tailwind CSS`
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasHenriqueDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHenriqueDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonasHenriqueDev&theme=tokyonight&hide_border=true)
+[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/order-mananger-crud)
 
 </div>
 
-## 🏆 Conquistas
+---
 
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JonasHenriqueDev&theme=tokyonight&no-frame=true&row=1&column=7)
+### ♻️ [TechCycle](https://github.com/JonasHenriqueDev/techcycle)
+
+<div align="left">
+
+Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação e recompensas:
+
+- 🌱 **Sustentabilidade** e economia circular
+- 🎯 **Sistema de gamificação** com pontos e recompensas
+- 📱 **Interface responsiva** e intuitiva
+- 🔄 **Gestão de coletas** e agendamentos
+- 🏆 **Ranking de usuários** mais engajados
+
+**Stack**: `Laravel` • `React` • `MySQL` • `Bootstrap` • `API REST`
+
+[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/techcycle)
 
 </div>
+
+---
+
+### 🎮 [Guima Backend](https://github.com/JonasHenriqueDev/guima-backend)
+
+<div align="left">
+
+API REST robusta para aplicação de jogos e entretenimento:
+
+- 🔐 **Autenticação JWT** e controle de acesso
+- 📊 **Sistema de ranking** e pontuações
+- 🎮 **Gestão de usuários** e perfis
+- 🚀 **API escalável** e bem documentada
+- 🧪 **Testes automatizados** com PHPUnit
+
+**Stack**: `Laravel` • `MySQL` • `JWT` • `Swagger` • `PHPUnit`
+
+[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/guima-backend)
+
+</div>
+
+---
+
+💡 **Outros projetos**: Confira meus [repositórios](https://github.com/JonasHenriqueDev?tab=repositories) para ver mais trabalhos!
 
 ## 📈 Gráfico de Contribuição
 
@@ -150,11 +176,7 @@ Universidade de Pernambuco (UPE) • 2022 - 2026
 
 <div align="center">
 
-### 💭 *"A simplicidade é o último grau de sofisticação."* - Leonardo da Vinci
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JonasHenriqueDev.JonasHenriqueDev)
 ![Profile Views](https://komarev.com/ghpvc/?username=JonasHenriqueDev&color=blueviolet&style=flat-square)
-
-**⭐ Se você gostou dos meus projetos, considere dar uma estrela!**
 
 </div>
