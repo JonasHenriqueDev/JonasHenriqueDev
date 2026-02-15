@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-henrique-da-silva-santos-b88321160/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonashssantos@gmail.com)
-[![Location](https://img.shields.io/badge/Jupi-PE-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
