@@ -10,17 +10,11 @@
 
 </div>
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
-Desenvolvedor Web Full Stack com **3 anos de experiência**, especializado em **PHP/Laravel** no backend e **React.js** no frontend. Estudante de Engenharia de Software na UPE (conclusão em 2026) e apaixonado por criar soluções eficientes e escaláveis.
+Desenvolvedor Web Full Stack com **3 anos de experiência**, especializado em **PHP/Laravel** no backend e **React.js** no frontend. Estudante de Engenharia de Software na UPE (conclusão em 2026).
 
-- 🔭 Atualmente trabalhando com **Laravel**, **NestJS**, **React** e **arquiteturas modernas**
-- 🏢 Experiência em ERPs para construção civil e gestão acadêmica
-- 🌱 Focado em **Clean Architecture**, **SOLID**, **Microsserviços** e **APIs REST**
-- 💡 Interessado em boas práticas de desenvolvimento e arquitetura de software
-- 🎓 Formação em Engenharia de Software - UPE (2026)
-
-## 🛠️ Stack Tecnológica
+## Stack 
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -47,21 +41,20 @@ Desenvolvedor Web Full Stack com **3 anos de experiência**, especializado em **
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 📦 [Sistema de Gestão de Pedidos e Estoque](https://github.com/JonasHenriqueDev/order-mananger-crud)
+### [Sistema de Gestão de Pedidos e Estoque](https://github.com/JonasHenriqueDev/order-mananger-crud)
 
 <div align="left">
 
 Sistema fullstack para gerenciamento completo de pedidos, produtos e usuários, com:
 
-- ⚡ **Processamento assíncrono** via Laravel Horizon
-- 🔐 **Autenticação segura** baseada em tokens
-- 🎨 **Interface moderna** com React + Tailwind CSS
-- 🗄️ **Alta performance** com PostgreSQL + Redis
-- 📊 **Dashboard** de gestão completo
+- **Processamento assíncrono** via Laravel Horizon
+- **Autenticação segura** baseada em tokens
+- **Interface moderna** com React + Tailwind CSS
+- **Alta performance** com PostgreSQL + Redis
+- **Dashboard** de gestão completo
 
 **Stack**: `Laravel` • `React` • `Vite` • `PostgreSQL` • `Redis` • `Tailwind CSS`
 
@@ -71,17 +64,17 @@ Sistema fullstack para gerenciamento completo de pedidos, produtos e usuários, 
 
 ---
 
-### ♻️ [TechCycle](https://github.com/JonasHenriqueDev/techcycle)
+### [TechCycle](https://github.com/JonasHenriqueDev/techcycle)
 
 <div align="left">
 
 Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação e recompensas:
 
-- 🌱 **Sustentabilidade** e economia circular
-- 🎯 **Sistema de gamificação** com pontos e recompensas
-- 📱 **Interface responsiva** e intuitiva
-- 🔄 **Gestão de coletas** e agendamentos
-- 🏆 **Ranking de usuários** mais engajados
+- **Sustentabilidade** e economia circular
+- **Sistema de gamificação** com pontos e recompensas
+- **Interface responsiva** e intuitiva
+- **Gestão de coletas** e agendamentos
+- **Ranking de usuários** mais engajados
 
 **Stack**: `Flutter` • `Spring` • `MySQL` • `Mobile` • `API REST` • `Microserviços`
 
@@ -93,16 +86,16 @@ Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação
 
 ---
 
-### 🎮 [Guima Backend](https://github.com/JonasHenriqueDev/guima-backend)
+### [Guima Backend](https://github.com/JonasHenriqueDev/guima-backend)
 
 <div align="left">
 
 API REST desenvolvida em Laravel para plataforma de ensino e gestão de conteúdo educacional:
 
-- 🔐 **Autenticação JWT** e controle de acesso
-- 🎥 **Sistema de vídeo-aulas**
-- 🎮 **Gestão de usuários** e perfis
-- 🚀 **API escalável** e bem documentada
+- **Autenticação JWT** e controle de acesso
+- **Sistema de vídeo-aulas**
+- **Gestão de usuários** e perfis
+- **API escalável** e bem documentada
 
 **Stack**: `Laravel` • `MySQL` • `JWT` • `Swagger` • `PHPUnit`
 
@@ -112,57 +105,18 @@ API REST desenvolvida em Laravel para plataforma de ensino e gestão de conteúd
 
 ---
 
-💡 **Outros projetos**: Confira meus [repositórios](https://github.com/JonasHenriqueDev?tab=repositories) para ver mais trabalhos!
+## Formação Acadêmica
 
-## 📈 Gráfico de Contribuição
-
-[![Jonas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JonasHenriqueDev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🎯 Princípios e Boas Práticas
-
-```php
-<?php
-
-namespace JonasHenrique\Development;
-
-class Developer
-{
-    private array $principles = [
-        'Clean Code',
-        'Clean Architecture',
-        'SOLID',
-        'Design Patterns',
-        'REST APIs',
-        'Microservices'
-    ];
-    
-    private array $focus = [
-        'Código limpo e manutenível',
-        'Arquiteturas escaláveis',
-        'Testes automatizados',
-        'CI/CD',
-        'Documentação clara'
-    ];
-    
-    public function code(): string
-    {
-        return "Transformando café em código desde 2022 ☕️💻";
-    }
-}
-```
-
-## 📚 Formação Acadêmica
-
-🎓 **Bacharelado em Engenharia de Software**  
+**Bacharelado em Engenharia de Software**  
 Universidade de Pernambuco (UPE) • 2022 - 2026  
-📍 Garanhuns, PE
+Garanhuns, PE
 
-## 🌐 Idiomas
+## Idiomas
 
 - 🇧🇷 **Português**: Nativo
 - 🇺🇸 **Inglês**: Intermediário B2 (Leitura, escrita e conversação)
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
