@@ -14,7 +14,7 @@ Engenheiro de Software com 3 anos de experiência em desenvolvimento web full st
 ## Stack Tecnológico
 
 **Backend**  
-PHP • Laravel • NestJS • Java
+PHP • Laravel • NestJS • Typescript • Spring • Java
 
 **Frontend**  
 React • TypeScript • Vite • TailwindCSS
