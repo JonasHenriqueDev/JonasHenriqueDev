@@ -41,6 +41,8 @@ Sistema fullstack para gerenciamento completo de pedidos, produtos e usuários.
 
 **Stack:** Laravel • React • Vite • PostgreSQL • Redis • Tailwind CSS
 
+---
+
 ### [Guima Backend](https://github.com/JonasHenriqueDev/guima-backend)
 
 API REST para plataforma de ensino e gestão de conteúdo educacional.
@@ -52,6 +54,19 @@ API REST para plataforma de ensino e gestão de conteúdo educacional.
 - API escalável e documentada
 
 **Stack:** Laravel • MySQL • JWT • Swagger • PHPUnit
+
+---
+
+### [Portfolio](https://github.com/JonasHenriqueDev/portfolio)
+
+Meu portfolio pessoal utilizando ReactJS com TailwindCSS.
+
+**Características:**
+- Desing minimalista e fácil de visualizar
+- Separação do código em componentes facilitando o entendimento do código e manutenção
+- Interface moderna com React + Tailwind CSS
+
+**Stack:** React • Tailwind CSS • Vite 
 
 ---
 
