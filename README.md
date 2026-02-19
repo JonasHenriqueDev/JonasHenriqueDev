@@ -1,129 +1,97 @@
-# Olá! 👋 Eu sou Jonas Henrique
+#  Olá! 👋 Eu sou Jonas Santos
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;3+anos+de+experiência;PHP+%7C+Laravel+%7C+NestJS+%7C+React;Engenharia+de+Software+%40+UPE)](https://git.io/typing-svg)
+**Engenheiro de Software | Desenvolvedor Full Stack**  
+Engenharia de Software @ UPE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-henrique-da-silva-santos-b88321160/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonashssantos@gmail.com)
-[![Location](https://img.shields.io/badge/Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-henrique-da-silva-santos-b88321160/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonashssantos@gmail.com)
 
-</div>
+---
 
-## Sobre Mim
+## Sobre
 
-Desenvolvedor Web Full Stack com **3 anos de experiência**, especializado em **PHP/Laravel** no backend e **React.js** no frontend. Estudante de Engenharia de Software na UPE (conclusão em 2026).
+Engenheiro de Software com 3 anos de experiência em desenvolvimento web full stack especializado em **PHP/Laravel** e **React.js**.
 
-## Stack 
+## Stack Tecnológico
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Backend**  
+PHP • Laravel • NestJS • Java
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend**  
+React • TypeScript • Vite • TailwindCSS
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Banco de Dados**  
+MySQL • PostgreSQL • MongoDB • Redis
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+**DevOps & Ferramentas**  
+Docker • Git • GitHub Actions • Nginx
+
+---
 
 ## Projetos em Destaque
 
 ### [Sistema de Gestão de Pedidos e Estoque](https://github.com/JonasHenriqueDev/order-mananger-crud)
 
-<div align="left">
+Sistema fullstack para gerenciamento completo de pedidos, produtos e usuários.
 
-Sistema fullstack para gerenciamento completo de pedidos, produtos e usuários, com:
+**Características:**
+- Processamento assíncrono via Laravel Horizon
+- Autenticação baseada em tokens
+- Interface moderna com React + Tailwind CSS
+- Alta performance com PostgreSQL + Redis
 
-- **Processamento assíncrono** via Laravel Horizon
-- **Autenticação segura** baseada em tokens
-- **Interface moderna** com React + Tailwind CSS
-- **Alta performance** com PostgreSQL + Redis
-- **Dashboard** de gestão completo
+**Stack:** Laravel • React • Vite • PostgreSQL • Redis • Tailwind CSS
 
-**Stack**: `Laravel` • `React` • `Vite` • `PostgreSQL` • `Redis` • `Tailwind CSS`
+### [Guima Backend](https://github.com/JonasHenriqueDev/guima-backend)
 
-[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/order-mananger-crud)
+API REST para plataforma de ensino e gestão de conteúdo educacional.
 
-</div>
+**Características:**
+- Autenticação JWT
+- Sistema de vídeo-aulas
+- Gestão de usuários e perfis
+- API escalável e documentada
+
+**Stack:** Laravel • MySQL • JWT • Swagger • PHPUnit
 
 ---
 
 ### [TechCycle](https://github.com/JonasHenriqueDev/techcycle)
 
-<div align="left">
+Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação e recompensas.
 
-Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação e recompensas:
+**Características:**
+- Sistema de gamificação com pontos e recompensas
+- Gestão de coletas e agendamentos
+- Interface mobile responsiva
+- Ranking de usuários
 
-- **Sustentabilidade** e economia circular
-- **Sistema de gamificação** com pontos e recompensas
-- **Interface responsiva** e intuitiva
-- **Gestão de coletas** e agendamentos
-- **Ranking de usuários** mais engajados
+**Stack:** Flutter • Spring • MySQL
 
-**Stack**: `Flutter` • `Spring` • `MySQL` • `Mobile` • `API REST` • `Microserviços`
-
-(Frontend - Mobile)
-[![Ver Repositório (Frontend - Mobile)](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/techcycle)
-(Backend - API Microsserviços)
-[![Ver Repositório (Backend - API Microsserviços)](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/techcycle-integracao-sistemas-api)
-</div>
+**Repositórios:**
+- [Frontend Mobile](https://github.com/JonasHenriqueDev/techcycle)
+- [Backend API](https://github.com/JonasHenriqueDev/techcycle-integracao-sistemas-api)
 
 ---
 
-### [Guima Backend](https://github.com/JonasHenriqueDev/guima-backend)
 
-<div align="left">
 
-API REST desenvolvida em Laravel para plataforma de ensino e gestão de conteúdo educacional:
-
-- **Autenticação JWT** e controle de acesso
-- **Sistema de vídeo-aulas**
-- **Gestão de usuários** e perfis
-- **API escalável** e bem documentada
-
-**Stack**: `Laravel` • `MySQL` • `JWT` • `Swagger` • `PHPUnit`
-
-[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev/guima-backend)
-
-</div>
-
----
-
-## Formação Acadêmica
+## Formação
 
 **Bacharelado em Engenharia de Software**  
-Universidade de Pernambuco (UPE) • 2022 - 2026  
-Garanhuns, PE
+Universidade de Pernambuco (UPE) • 2022 - 2026
 
 ## Idiomas
 
-- 🇧🇷 **Português**: Nativo
-- 🇺🇸 **Inglês**: Intermediário B2 (Leitura, escrita e conversação)
+🇧🇷 Português - Nativo  
+🇺🇸 Inglês - Intermediário B2
+
+---
 
 ## Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-henrique-da-silva-santos-b88321160/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonashssantos@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasHenriqueDev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5587981312850)
+📧 [jonashssantos@gmail.com](mailto:jonashssantos@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/jonas-henrique-da-silva-santos-b88321160/)  
+💻 [WhatsApp](https://wa.me/5587981312850)  
+📄 [Portfolio](https://jonashenriquedev.github.io/portfolio/)
 
 </div>
 
