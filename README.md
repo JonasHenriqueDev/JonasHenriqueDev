@@ -27,7 +27,7 @@ Docker • Git • GitHub Actions • Nginx
 
 ---
 
-## Projetos em Destaque
+<!-- ## Projetos em Destaque
 
 ### [Sistema de Gestão de Pedidos e Estoque](https://github.com/JonasHenriqueDev/order-mananger-crud)
 
@@ -56,21 +56,14 @@ API REST para plataforma de ensino e gestão de conteúdo educacional.
 **Stack:** Laravel • MySQL • JWT • Swagger • PHPUnit
 
 ---
-
+-->
 ### [Portfolio](https://github.com/JonasHenriqueDev/portfolio)
 
-Meu portfolio pessoal utilizando ReactJS com TailwindCSS.
-
-**Características:**
-- Desing minimalista e fácil de visualizar
-- Separação do código em componentes facilitando o entendimento do código e manutenção
-- Interface moderna com React + Tailwind CSS
-
-**Stack:** React • Tailwind CSS • Vite 
+Acesse meu portfólio para saber mais sobre meus projetos e carreira profissional.
 
 ---
 
-### [TechCycle](https://github.com/JonasHenriqueDev/techcycle)
+<!--### [TechCycle](https://github.com/JonasHenriqueDev/techcycle)
 
 Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação e recompensas.
 
@@ -87,7 +80,7 @@ Plataforma de reciclagem de equipamentos eletrônicos com sistema de pontuação
 - [Backend API](https://github.com/JonasHenriqueDev/techcycle-integracao-sistemas-api)
 
 ---
-
+-->
 
 
 ## Formação
