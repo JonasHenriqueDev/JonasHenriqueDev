@@ -57,7 +57,7 @@ API REST para plataforma de ensino e gestão de conteúdo educacional.
 
 ---
 -->
-### [Portfolio](https://github.com/JonasHenriqueDev/portfolio)
+### [Portfolio](https://jonashenriquedev.github.io/portfolio/)
 
 Acesse meu portfólio para saber mais sobre meus projetos e carreira profissional.
 
